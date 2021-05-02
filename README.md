@@ -1,7 +1,8 @@
 # newapp
+<img src=“https://github.com/Sushil787/Simple-Caffeteria-app/blob/main/Screenshot_2021-05-02-16-05-12-07_b4ec958ee9e1ff2ec90754dc02ee4ece%5B1%5D.jpg”>
 
 A new Flutter project.
-<img src=“https://github.com/Sushil787/Simple-Caffeteria-app/blob/main/Screenshot_2021-05-02-16-05-12-07_b4ec958ee9e1ff2ec90754dc02ee4ece%5B1%5D.jpg”>
+
 
 ## Getting Started
 
