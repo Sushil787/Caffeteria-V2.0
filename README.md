@@ -2,7 +2,7 @@
 
 # screenshot
 
-<img height="480px" src="1.png"> <img height="480px" src="2.png"><img height="480px" src="3.png"><img height="480px" src="4.png">
+<img height="480px" src="https://github.com/Sushil787/Caffeteria-V2.0/blob/main/1.png"> <img height="480px" src="2.png"><img height="480px" src="3.png"><img height="480px" src="4.png">
 
 A new Flutter project.
 
